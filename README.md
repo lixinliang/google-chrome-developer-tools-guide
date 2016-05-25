@@ -14,13 +14,35 @@
 本项目的初衷只是归纳与收集 `Chrome DevTools` 的使用技巧，成为一本`不完全指南`，在需要的时候，能在此查找出解决方案。
 
 # 如何使用
-> 2016/05/16 Chrome Stable 50.0
 
+##### 在`Github`顶部使用搜索功能搜索本仓库的内容
 
+![](images/0-1.png)
 
+![](images/0-2.png)
 
+##### 注意
 
-<!-- working -->
+* 每篇文章的撰写**日期**与对应Chrome的**版本**都写在头部
+* 关键字搜索**不支持**模糊匹配
+
+# 参与项目
+
+欢迎包括但不限于以下行为:
+
+* 补充关键字
+* 纠正错误
+* 共同编辑
+* ...
+
+参与方法和步骤如下:
+
+* 登录 <https://github.com>
+* Fork `git@github.com:lixinliang/google-chrome-developer-tools-guide.git`
+* 创建您的特性分支 (git checkout -b new-feature)
+* 提交您的改动 (git commit -m 'Added some features or fixed a bug or change a text')
+* 将您的改动记录提交到远程 git 仓库 (git push origin new-feature)
+* 然后到 github 网站的该 git 远程仓库的 new-feature 分支下发起 Pull Request
 
 # 参考链接
 
