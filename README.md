@@ -20,6 +20,25 @@
 2016/05/16 Chrome Stable 50.0
 ````
 
+### MacOS:
+* `快捷键 alt + cmd + i`
+* `快捷键 alt + cmd + j`
+* `快捷键 alt + cmd + c`
+* `在chrome的网页中` -> `右键菜单` -> `选择<检查>`
+* `点击chrome右上角的菜单键` -> `<更多工具>` -> `<开发者工具>`
+* `顶部菜单栏` -> `<视图>` -> `<开发者>` -> `<开发者工具>`
+* `顶部菜单栏` -> `<视图>` -> `<开发者>` -> `<JavaScript控制台>`
+
+### Windows:
+* `快捷键 ctrl + shift + i`
+* `快捷键 ctrl + shift + j`
+* `快捷键 ctrl + shift + c`
+* `快捷键 F12`
+* `在chrome的网页中` -> `右键菜单` -> `选择<检查(N)>`
+* `点击chrome右上角的菜单键` -> `<更多工具(L)>` -> `<开发者工具>`
+
+[@see #Keyboard Shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
+
 <!-- working -->
 
 # 参考链接
