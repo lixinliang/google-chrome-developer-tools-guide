@@ -17,9 +17,9 @@
 
 ##### 在`Github`顶部使用搜索功能搜索本仓库的内容
 
-![](images/0-1.png)
+![](images/0/1.png)
 
-![](images/0-2.png)
+![](images/0/2.png)
 
 ##### 注意
 
